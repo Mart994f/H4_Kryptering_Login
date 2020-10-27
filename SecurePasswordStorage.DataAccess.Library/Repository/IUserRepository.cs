@@ -8,5 +8,6 @@
         System.Collections.Generic.List<dynamic> GetAll();
         string GetSalt(string username);
         int Update(string username, string salt, string hashedPassword);
+        string GetPasswordHash(string username);
     }
 }

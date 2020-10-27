@@ -3,7 +3,7 @@ using SecurePasswordStorage.DataAccess.Library;
 
 namespace SecurePasswordStorage.BusinessLogic.Library.Controllers
 {
-    class UserController
+    public class UserController : IUserController
     {
         #region Private Fields
 
@@ -25,33 +25,43 @@ namespace SecurePasswordStorage.BusinessLogic.Library.Controllers
 
         #region Public Methods
 
-        public void RegisterUser(string username, string password)
+        public bool RegisterUser(string username, string password)
         {
-            if (!string.IsNullOrEmpty(username) || !string.IsNullOrEmpty(password))
+            if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
             {
-                string salt = _sha256HashService.GetSalt();
-                string hashedPassword = _sha256HashService.ComputeHashWithSalt(password, salt);
-
-                _userRepository.Create(username, salt, hashedPassword);
+                return false;
             }
+
+            string salt = _sha256HashService.GetSalt();
+            string hashedPassword = _sha256HashService.ComputeHashWithSalt(password, salt);
+
+            if (_userRepository.Create(username, salt, hashedPassword) > 0)
+            {
+                return true;
+            }
+
+            return false;
         }
 
-        public void AuthenticateUser(string username, string password)
+        public bool AuthenticateUser(string username, string password)
         {
-            if (!string.IsNullOrEmpty(username) || !string.IsNullOrEmpty(password))
+            if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
             {
-                string salt = _userRepository.GetSalt(username);
-                string hashedPassword = _sha256HashService.ComputeHashWithSalt(password, salt);
-                string storedHash = 
-                
+                return false;
             }
+
+            string salt = _userRepository.GetSalt(username);
+            string computedHash = _sha256HashService.ComputeHashWithSalt(password, salt);
+            string storedHash = _userRepository.GetPasswordHash(username);
+
+            return _sha256HashService.ValidateHash(computedHash, storedHash);
         }
 
         #endregion
 
         #region Private Helper Methods
 
-        
+
 
         #endregion
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mart994f\\source\\repos\\SecurePasswordStorage\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj": {}
+    "C:\\Users\\mrqui\\Documents\\Repos\\H4_Kryptering_Login\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mart994f\\source\\repos\\SecurePasswordStorage\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj": {
+    "C:\\Users\\mrqui\\Documents\\Repos\\H4_Kryptering_Login\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mart994f\\source\\repos\\SecurePasswordStorage\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj",
+        "projectUniqueName": "C:\\Users\\mrqui\\Documents\\Repos\\H4_Kryptering_Login\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj",
         "projectName": "DataAccess.Library",
-        "projectPath": "C:\\Users\\mart994f\\source\\repos\\SecurePasswordStorage\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj",
-        "packagesPath": "C:\\Users\\mart994f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mart994f\\source\\repos\\SecurePasswordStorage\\SecurePasswordStorage.DataAccess.Library\\obj\\",
+        "projectPath": "C:\\Users\\mrqui\\Documents\\Repos\\H4_Kryptering_Login\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj",
+        "packagesPath": "C:\\Users\\mrqui\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrqui\\Documents\\Repos\\H4_Kryptering_Login\\SecurePasswordStorage.DataAccess.Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mart994f\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mrqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

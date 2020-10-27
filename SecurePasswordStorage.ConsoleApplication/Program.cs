@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Presentation.Console;
+using System;
 
 namespace SecurePasswordStorage.Presentation.ConsoleApplication
 {
@@ -6,7 +7,8 @@ namespace SecurePasswordStorage.Presentation.ConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Application application = new Application();
+            application.Run();
         }
     }
 }

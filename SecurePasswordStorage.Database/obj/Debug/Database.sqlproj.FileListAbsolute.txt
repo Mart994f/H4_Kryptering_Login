@@ -7,3 +7,9 @@ C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Datab
 C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\obj\Debug\predeploy.sql
 C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\obj\Debug\SecurePasswordStorage.Database.dll
 C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\obj\Debug\SecurePasswordStorage.Database.pdb
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.Database\bin\Debug\Database.dacpac
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.Database\bin\Debug\SecurePasswordStorage.Database.dll
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.Database\bin\Debug\SecurePasswordStorage.Database.pdb
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.Database\obj\Debug\SecurePasswordStorage.Database.dll
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.Database\obj\Debug\SecurePasswordStorage.Database.pdb

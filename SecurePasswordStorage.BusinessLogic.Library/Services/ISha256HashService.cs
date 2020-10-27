@@ -4,5 +4,6 @@
     {
         string ComputeHashWithSalt(string password, string salt);
         string GetSalt();
+        bool ValidateHash(string computed, string stored);
     }
 }

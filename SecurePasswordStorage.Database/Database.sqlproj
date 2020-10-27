@@ -62,6 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\Users.sql" />
+    <Build Include="StoredProcedure\CreateUser.sql" />
+    <Build Include="StoredProcedure\GetSalt.sql" />
+    <Build Include="StoredProcedure\GetPasswordHash.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SecurePasswordStorage.Database.publish.xml" />

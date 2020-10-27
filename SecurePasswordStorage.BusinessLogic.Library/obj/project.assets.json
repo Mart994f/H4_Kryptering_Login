@@ -567,19 +567,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mart994f\\.nuget\\packages\\": {}
+    "C:\\Users\\mrqui\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mart994f\\source\\repos\\SecurePasswordStorage\\SecurePasswordStorage.BusinessLogic.Library\\BusinessLogic.Library.csproj",
+      "projectUniqueName": "C:\\Users\\mrqui\\Documents\\Repos\\H4_Kryptering_Login\\SecurePasswordStorage.BusinessLogic.Library\\BusinessLogic.Library.csproj",
       "projectName": "BusinessLogic.Library",
-      "projectPath": "C:\\Users\\mart994f\\source\\repos\\SecurePasswordStorage\\SecurePasswordStorage.BusinessLogic.Library\\BusinessLogic.Library.csproj",
-      "packagesPath": "C:\\Users\\mart994f\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mart994f\\source\\repos\\SecurePasswordStorage\\SecurePasswordStorage.BusinessLogic.Library\\obj\\",
+      "projectPath": "C:\\Users\\mrqui\\Documents\\Repos\\H4_Kryptering_Login\\SecurePasswordStorage.BusinessLogic.Library\\BusinessLogic.Library.csproj",
+      "packagesPath": "C:\\Users\\mrqui\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mrqui\\Documents\\Repos\\H4_Kryptering_Login\\SecurePasswordStorage.BusinessLogic.Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mart994f\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mrqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -592,8 +592,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\mart994f\\source\\repos\\SecurePasswordStorage\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj": {
-              "projectPath": "C:\\Users\\mart994f\\source\\repos\\SecurePasswordStorage\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj"
+            "C:\\Users\\mrqui\\Documents\\Repos\\H4_Kryptering_Login\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj": {
+              "projectPath": "C:\\Users\\mrqui\\Documents\\Repos\\H4_Kryptering_Login\\SecurePasswordStorage.DataAccess.Library\\DataAccess.Library.csproj"
             }
           }
         }

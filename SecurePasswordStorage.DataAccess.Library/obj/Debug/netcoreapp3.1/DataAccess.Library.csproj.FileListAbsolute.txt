@@ -4,3 +4,12 @@ C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.DataA
 C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.DataAccess.Library\obj\Debug\netcoreapp3.1\DataAccess.Library.AssemblyInfo.cs
 C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.DataAccess.Library\obj\Debug\netcoreapp3.1\DataAccess.Library.csprojAssemblyReference.cache
 C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.DataAccess.Library\obj\Debug\netcoreapp3.1\DataAccess.Library.csproj.CoreCompileInputs.cache
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.DataAccess.Library\bin\Debug\netcoreapp3.1\DataAccess.Library.deps.json
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.DataAccess.Library\bin\Debug\netcoreapp3.1\DataAccess.Library.dll
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.DataAccess.Library\bin\Debug\netcoreapp3.1\DataAccess.Library.pdb
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.DataAccess.Library\obj\Debug\netcoreapp3.1\DataAccess.Library.csprojAssemblyReference.cache
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.DataAccess.Library\obj\Debug\netcoreapp3.1\DataAccess.Library.AssemblyInfoInputs.cache
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.DataAccess.Library\obj\Debug\netcoreapp3.1\DataAccess.Library.AssemblyInfo.cs
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.DataAccess.Library\obj\Debug\netcoreapp3.1\DataAccess.Library.csproj.CoreCompileInputs.cache
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.DataAccess.Library\obj\Debug\netcoreapp3.1\DataAccess.Library.dll
+C:\Users\mrqui\Documents\Repos\H4_Kryptering_Login\SecurePasswordStorage.DataAccess.Library\obj\Debug\netcoreapp3.1\DataAccess.Library.pdb

@@ -98,14 +98,14 @@ namespace SecurePasswordStorage.DataAccess.Library
             }
         }
 
-        public string GetHashedPassword(string username)
+        public string GetPasswordHash(string username)
         {
             using (IDbConnection connection = new SqlConnection(_connectionstring))
             {
                 DynamicParameters parameters = new DynamicParameters();
                 parameters.Add("@Username", username);
 
-                return connection.ExecuteScalar<string>("GetHashedPassword", parameters, commandType: CommandType.StoredProcedure,
+                return connection.ExecuteScalar<string>("GetPasswordHash", parameters, commandType: CommandType.StoredProcedure,
                                           commandTimeout: 10);
             }
         }
