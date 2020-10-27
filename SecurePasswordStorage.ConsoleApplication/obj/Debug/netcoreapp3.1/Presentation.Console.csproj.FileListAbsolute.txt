@@ -1,0 +1,4 @@
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.ConsoleApplication\obj\Debug\netcoreapp3.1\Presentation.Console.csprojAssemblyReference.cache
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.ConsoleApplication\obj\Debug\netcoreapp3.1\Presentation.Console.AssemblyInfoInputs.cache
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.ConsoleApplication\obj\Debug\netcoreapp3.1\Presentation.Console.AssemblyInfo.cs
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.ConsoleApplication\obj\Debug\netcoreapp3.1\Presentation.Console.csproj.CoreCompileInputs.cache

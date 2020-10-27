@@ -1,0 +1,4 @@
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.BusinessLogic.Library\obj\Debug\netcoreapp3.1\BusinessLogic.Library.csprojAssemblyReference.cache
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.BusinessLogic.Library\obj\Debug\netcoreapp3.1\BusinessLogic.Library.AssemblyInfoInputs.cache
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.BusinessLogic.Library\obj\Debug\netcoreapp3.1\BusinessLogic.Library.AssemblyInfo.cs
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.BusinessLogic.Library\obj\Debug\netcoreapp3.1\BusinessLogic.Library.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\bin\Debug\Database.dacpac
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\bin\Debug\SecurePasswordStorage.Database.dll
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\bin\Debug\SecurePasswordStorage.Database.pdb
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\obj\Debug\Model.xml
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\obj\Debug\refactor.xml
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\obj\Debug\postdeploy.sql
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\obj\Debug\predeploy.sql
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\obj\Debug\SecurePasswordStorage.Database.dll
+C:\Users\mart994f\source\repos\SecurePasswordStorage\SecurePasswordStorage.Database\obj\Debug\SecurePasswordStorage.Database.pdb
